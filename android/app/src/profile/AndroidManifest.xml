@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Required for the Flutter profiler and its local VM service. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
